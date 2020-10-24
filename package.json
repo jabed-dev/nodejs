@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "author": "Jabed Hossain",
+  "version": "1.0.0",
+  "description": "Heroku basic nodejs Hello World project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+    "keywords": [
+      "nodejs",
+      "heroku"
+    ],
+  "license": "ISC"
+}

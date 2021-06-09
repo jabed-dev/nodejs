@@ -1,0 +1,11 @@
+---
+application:
+  name: "nodejs"
+  project: "node-server"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-nodejs"
+  routes:
+  - application_name: "nodejs"
+    paths:
+    - "/*"
